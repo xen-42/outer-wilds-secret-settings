@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "settings": {
+    "PhysicsRate": 60,
+    "VSyncCount": {
+      "type": "selector",
+      "value": "default",
+      "options": [ "default", "0", "1", "2", "3", "4" ]
+    },
+    "DisableEssentialPrompts": false,
+    "DisablePartygoerProxies": false,
+    "EnableVisorBreathFog": false
+  }
+}
