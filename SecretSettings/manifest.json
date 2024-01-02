@@ -4,6 +4,7 @@
   "author": "xen",
   "name": "Secret Settings",
   "uniqueName": "xen.SecretSettings",
-  "version": "0.1.0",
-  "owmlVersion": "2.7.1"
+  "version": "0.1.1",
+  "owmlVersion": "2.7.1",
+  "donateLink": "https://www.patreon.com/xen42"
 }
